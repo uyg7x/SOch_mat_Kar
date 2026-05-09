@@ -33,7 +33,7 @@ A lightweight, background-running desktop app that gently reminds you to drink w
    ```
 2. Run the app:
    ```bash
-   python src/health_reminder.py
+   python src/SOch_mat_Kar
    ```
 
 ## 🛠️ Build to `.exe` (Windows)
@@ -43,9 +43,9 @@ A lightweight, background-running desktop app that gently reminds you to drink w
    ```
 2. Build the executable:
    ```bash
-   pyinstaller --onefile --windowed --icon=assets/icon.ico --name HealthReminder src/health_reminder.py
+   pyinstaller --onefile --windowed --icon=assets/icon.ico --name SOch_mat_Kar src/SOch_mat_Kar.py
    ```
-3. Your `HealthReminder.exe` will be inside the `dist/` folder. Double-click to run!
+3. Your `SOch_mat_Kar.exe` will be inside the `dist/` folder. Double-click to run!
 
 *(Optional: Run `build.bat` for a one-click build experience.)*
 
@@ -58,12 +58,12 @@ A lightweight, background-running desktop app that gently reminds you to drink w
 ## 🛑 How to Force Stop
 If the app gets stuck or you want to kill it instantly:
 ```cmd
-taskkill /f /im HealthReminder.exe
+taskkill /f /im SOch_mat_Kar.exe
 ```
 
 ## 📁 Project Structure
 ```
-HealthReminder/
+SOch_mat_Kar/
 ├── src/
 │   └── health_reminder.py      # Main application logic
 ├── assets/
