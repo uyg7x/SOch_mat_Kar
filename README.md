@@ -28,8 +28,8 @@ A lightweight, background-running desktop app that gently reminds you to drink w
 ### Run from Source
 1. Clone this repository:
    ```bash
-   git clone https://github.com/uyg7x/HealthReminder.git
-   cd HealthReminder
+   https://github.com/uyg7x/SOch_mat_Kar.git
+   cd SOch_mat_Kar
    ```
 2. Run the app:
    ```bash
